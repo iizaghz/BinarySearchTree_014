@@ -40,5 +40,8 @@ public:
         }
     }
 
-    
+    void insert()
+    {
+        
+    }
 };
