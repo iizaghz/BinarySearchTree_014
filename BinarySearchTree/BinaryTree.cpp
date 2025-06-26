@@ -91,5 +91,9 @@ public:
         }
     }
 
-    
+    bool isEmpty()
+    {
+        
+        
+    }
 };
